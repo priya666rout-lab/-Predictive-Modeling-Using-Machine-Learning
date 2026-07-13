@@ -59,13 +59,13 @@ https://www.kaggle.com/c/titanic/data
 ## 📷 Project Screenshots
 
 ### Confusion Matrix
-![Confusion Matrix](confusion matrics1.png)
+![Confusion Matrix](confusion_matrics1.png)
 
-![Confusion Matrix](confusion matrics2.png)
+![Confusion Matrix](confusion_matrics2.png)
 ### ROC Curve
-![ROC Curve](ROC curve.png)
+![ROC Curve](ROC_curve.png)
 ### Accuracy Comparison
-![Accuracy Comparison](model accuracy comparison.png)
+![Accuracy Comparison](model_accuracy_comparison.png)
 
 ## 📈 Key Findings
 
