@@ -4,7 +4,6 @@
 
 This project demonstrates the development of predictive machine learning models using the Titanic dataset. Multiple supervised learning algorithms were trained and evaluated to predict passenger survival. The models were compared using various evaluation metrics to identify the best-performing algorithm.
 
----
 
 ## 🎯 Objective
 
@@ -37,8 +36,6 @@ https://www.kaggle.com/c/titanic/data
 - Decision Tree Classifier
 - Random Forest Classifier
 
----
-
 ## ✨ Key Features
 
 - Data Cleaning
@@ -51,8 +48,6 @@ https://www.kaggle.com/c/titanic/data
 - ROC Curve
 - Classification Report
 
----
-
 ## 📊 Evaluation Metrics
 
 - Accuracy
@@ -60,14 +55,17 @@ https://www.kaggle.com/c/titanic/data
 - Recall
 - F1-Score
 - ROC-AUC Score
+  
 ## 📷 Project Screenshots
 
 ### Confusion Matrix
-![Confusion Matrix]()
+![Confusion Matrix](confusion matrics1.png )
+![Confusion Matrix](confusion matrics2.png   )
 ### ROC Curve
-![ROC Curve]()
+![ROC Curve](ROC curve.png)
 ### Accuracy Comparison
-![Accuracy Comparison]()
+![Accuracy Comparison]( model accuracy comparison.png )
+
 ## 📈 Key Findings
 
 - Random Forest achieved the highest prediction accuracy.
@@ -78,9 +76,10 @@ https://www.kaggle.com/c/titanic/data
 
 ## 📓 Notebook
 https://github.com/priya666rout-lab/-Predictive-Modeling-Using-Machine-Learning/blob/main/thiranex2.ipynb
-## 🚀 Repository
 
+## 🚀 Repository
 https://github.com/priya666rout-lab/-Predictive-Modeling-Using-Machine-Learning
+
 
 ## 👩‍💻 Author
 
